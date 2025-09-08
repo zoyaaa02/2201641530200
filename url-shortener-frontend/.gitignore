@@ -5,13 +5,6 @@
 /.pnp
 .pnp.js
 
-node_module paths 
-url-shortener\logging-middleware
-url-shortener\url-shortener-frontend
-url-shortener\url-shortener-backend
-
-
-
 # testing
 /coverage
 
